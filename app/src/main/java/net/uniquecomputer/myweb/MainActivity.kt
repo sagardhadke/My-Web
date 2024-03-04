@@ -28,7 +28,7 @@ class MainActivity : AppCompatActivity() {
             insets
         }
 
-        binding.WebView.loadUrl("https://skinfotechies.com/")
+        binding.WebView.loadUrl("https://github.com/")
 
         binding.WebView.settings.apply {
             javaScriptEnabled = true
